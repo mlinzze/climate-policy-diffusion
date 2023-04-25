@@ -13,14 +13,14 @@ Data on carbon pricing policies:
 - World Carbon Pricing Database: [https://github.com/g-dolphin/WorldCarbonPricingDatabase](https://github.com/g-dolphin/WorldCarbonPricingDatabase)
 
 Data on country characteristics:
-- World Development Indicators of the World Bank (WDI): [https://databank.worldbank.org/source/world-development-indicators]([https://databank.worldbank.org/source/world-development-indicators])
+- World Development Indicators of the World Bank (WDI): [https://databank.worldbank.org/source/world-development-indicators](https://databank.worldbank.org/source/world-development-indicators)
 - World Governance Indicators (WGI): [https://info.worldbank.org/governance/wgi/](https://info.worldbank.org/governance/wgi/)
 - Greenhouse gas emissions (Minx et al. 2021): [https://doi.org/10.5281/zenodo.5566761](https://doi.org/10.5281/zenodo.5566761)
 - Reserves of fossil fuels from the Energy Intelligence Agency (EIA): [https://www.eia.gov/](https://www.eia.gov/)
 - Global Debt Database (GDD): [https://www.imf.org/external/datamapper/datasets/GDD](https://www.imf.org/external/datamapper/datasets/GDD)
 - Government Finance Statistics (GFS): [https://data.imf.org/?sk=a0867067-d23c-4ebc-ad23-d3b015045405](https://data.imf.org/?sk=a0867067-d23c-4ebc-ad23-d3b015045405)
 - Expenditure by Function of Government (COFOG): [https://data.imf.org/?sk=5804c5e1-0502-4672-bdcd-671bcdc565a9](https://data.imf.org/?sk=5804c5e1-0502-4672-bdcd-671bcdc565a9)
-- Democracy Index (Polity 5): [https://www.systemicpeace.org/polityproject.html](https://www.systemicpeace.org/polityproject.html]
+- Democracy Index (Polity 5): [https://www.systemicpeace.org/polityproject.html](https://www.systemicpeace.org/polityproject.html)
 - Public belief in climate change (Gallup): [https://news.gallup.com/poll/117772/awareness-opinions-global-warming-vary-worldwide.aspx](https://news.gallup.com/poll/117772/awareness-opinions-global-warming-vary-worldwide.aspx)
 
 
@@ -46,8 +46,9 @@ The file `requirements.txt` lists these dependencies, please run `pip install -r
 
 ### Memory and Runtime Requirements
 
-Approximate time needed to reproduce the empirical analysis on a standard (2023) desktop machine: 1 hour.
-Additional time for simulations: 7 days (can be shortened by reducing the number of Monte Carlo simulations).
+Approximate time needed on a standard (2023) desktop machine:
+- empirical analysis : 1 hour
+- simulations: 7 days (can be shortened by reducing the number of Monte Carlo simulations)
 
 Description of individual scripts
 ----------------------------
