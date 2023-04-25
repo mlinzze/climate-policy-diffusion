@@ -1,0 +1,19 @@
+                                        &         model1
+                                        &         b/se/p
+log_gdp_pc_ppp                          &-.46019|1.00175|.645957
+emission_intensity                      &.1652531|.2152419|.4426324
+government_effectiveness                &.5461474|1.177028|.6426439
+regulatory_quality                      &1.768389|.8692043|.041902
+reserves_oil                            &-.0491614|.326571|.8803402
+g_debt                                  &.3717482|.2175098|.0874305
+government_expenditure                  &.0139778|.5958582|.9812847
+polity2                                 &-.3911621|.8533629|.6466815
+welfare                                 &.9689228|.4884936|.0473126
+spatial_lag                             &.861898|.1816424|2.08e-06
+ll                                      &       -30.8849
+r2                                      &               
+p                                       &       1.14e-37
+aic                                     &        81.7698
+bic                                     &        147.515
+N                                       &           5295
+risk                                    &           5295
